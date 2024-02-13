@@ -1,0 +1,12 @@
+#fichier principau a pas envoyer 
+.env
+
+*__pycache__/
+
+*.log
+*.csv
+
+vscode/
+*.swp
+
+*.DS_Store
