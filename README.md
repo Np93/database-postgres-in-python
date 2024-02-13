@@ -1,3 +1,5 @@
+petite database en python
+
 dans le fichier courant (la ou il y a le docker-compose) lancer avec la commande:
 
 docker-compose up --build
